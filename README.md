@@ -13,7 +13,7 @@ The engine provides a programmatic framework for portfolio assessment, focusing 
 
 ## Live Demo
 You can test the engine directly in your browser:
- **[[Portfolio Analysis]](https://portfolioanalysis-bnrbrys8wyw7veuzefx5wd.streamlit.app/)]((https://portfolioanalysis-bnrbrys8wyw7veuzefx5wd.streamlit.app/).)**
+ **(https://portfolioanalysis-bnrbrys8wyw7veuzefx5wd.streamlit.app/)]((https://portfolioanalysis-bnrbrys8wyw7veuzefx5wd.streamlit.app/).)**
 
 ## Project Architecture
 The system employs a strict separation between computational logic and the user interface:
