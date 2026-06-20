@@ -13,8 +13,7 @@ The engine provides a programmatic framework for portfolio assessment, focusing 
 
 ## Live Demo
 You can test the engine directly in your browser:
- **((https://portfolioanalysis-bnrbrys8wyw7veuzefx5wd.streamlit.app/).)**
-
+ [https://portfolioanalysis-bnrbrys8wyw7veuzefx5wd.streamlit.app/](https://portfolioanalysis-bnrbrys8wyw7veuzefx5wd.streamlit.app/)
 ## Project Architecture
 The system employs a strict separation between computational logic and the user interface:
 - `/core`: Houses the modular `quant_engine.py` library, implementing the object-oriented backend for econometric modeling.
