@@ -1,4 +1,4 @@
-# Institutional Portfolio Sandbox & Quantitative Risk Engine
+# Portfolio Analysis & Risk 
 
 ## Overview
 This project is a production-grade **Quantitative Portfolio Engine** and interactive web dashboard. It is designed to model multi-asset portfolios and execute rigorous cross-sectional econometric risk factor diagnostics, simulating the operational standards required by financial regulatory bodies and quantitative research divisions.
